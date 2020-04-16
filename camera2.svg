@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145.103" height="143.586" viewBox="0 0 145.103 143.586">
+  <g id="camera2" transform="translate(-507.604 -601.982)">
+    <g id="camera" transform="translate(-1 3)">
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(520 610)" fill="none" stroke="#060606" stroke-width="3">
+        <circle cx="61" cy="61" r="61" stroke="none"/>
+        <circle cx="61" cy="61" r="59.5" fill="none"/>
+      </g>
+      <g id="Polygon_1" data-name="Polygon 1" transform="translate(554 644)" fill="none">
+        <path d="M41.25,0,55,27.5,41.25,55H13.75L0,27.5,13.75,0Z" stroke="none"/>
+        <path d="M 15.60410308837891 3 L 3.354095458984375 27.5 L 15.60410308837891 52 L 39.39590454101563 52 L 51.64590454101563 27.5 L 39.39590454101563 3 L 15.60410308837891 3 M 13.75000381469727 0 L 41.25000381469727 0 L 55.00000381469727 27.5 L 41.25000381469727 55 L 13.75000381469727 55 L -7.62939453125e-06 27.5 L 13.75000381469727 0 Z" stroke="none" fill="#060606"/>
+      </g>
+      <line id="Line_13" data-name="Line 13" x2="41" transform="translate(593.5 645.5)" fill="none" stroke="#060606" stroke-width="3"/>
+      <line id="Line_14" data-name="Line 14" y1="36" x2="19" transform="translate(567.5 611.5)" fill="none" stroke="#060606" stroke-width="3"/>
+      <line id="Line_15" data-name="Line 15" x2="20" y2="39" transform="translate(606.5 669.5)" fill="none" stroke="#060606" stroke-width="3"/>
+      <line id="Line_16" data-name="Line 16" x1="20" y2="41" transform="translate(578.5 689.5)" fill="none" stroke="#060606" stroke-width="3"/>
+      <line id="Line_17" data-name="Line 17" x2="41" transform="translate(528.5 697.5)" fill="none" stroke="#060606" stroke-width="3"/>
+      <line id="Line_18" data-name="Line 18" x1="21" y1="38" transform="translate(534.5 633.5)" fill="none" stroke="#060606" stroke-width="3"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M550.18,604H509.352s-.5,34.551,0,46.068" fill="none" stroke="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_6" data-name="Path 6" d="M550.18,604H509.352s-.5,34.551,0,46.068" fill="none" stroke="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_7" data-name="Path 7" d="M41.048,46.068H.22S-.275,11.517.22,0" transform="translate(509.132 697)" fill="none" stroke="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_4" data-name="Path 4" d="M550.18,604H509.352s-.5,34.551,0,46.068" transform="translate(1254.69 94.378) rotate(90)" fill="none" stroke="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_5" data-name="Path 5" d="M550.18,604H509.352s-.5,34.551,0,46.068" transform="translate(1160.312 1348.068) rotate(180)" fill="none" stroke="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
